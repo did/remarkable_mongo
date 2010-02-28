@@ -9,7 +9,7 @@ begin
     gem.summary = %Q{Remarkable Matchers for MongoDB ORMs}
     gem.email = "nicolas.merouze@gmail.com"
     gem.homepage = "http://github.com/nmerouze/remarkable_mongo"
-    gem.authors = ["Nicolas Mérouze"]
+    gem.authors = ["Nicolas Merouze"]
     
     gem.add_dependency('remarkable',  '~> 3.1.8')
     gem.add_dependency('mongo_mapper', '~> 0.6.1')
